@@ -40,13 +40,13 @@ export class GoogleSigninButton extends Component {
 }
 
 GoogleSigninButton.Size = {
-	Icon: '48 x 48',
-	Standard: '230 x 48',
-	Wide: '312 x 48'
+    Icon: '48 x 48',
+    Standard: '230 x 48',
+    Wide: '312 x 48'
 };
 	
 GoogleSigninButton.Color = {
-	Auto: 'white',
-	Light: 'blue',
-	Dark: 'grey'
+    Auto: 'white',
+    Light: 'blue',
+    Dark: 'grey'
 };
